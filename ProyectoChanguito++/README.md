@@ -37,8 +37,8 @@ Requisitos Previos:
 ## Instrucciones ##
 
 1. Clona este repositorio:
-```bash
-git clone https://github.com/Mcanita/UTN-Laboratorio2.git
+    ```bash
+    git clone https://github.com/Mcanita/UTN-Laboratorio2.git
 
 2. Accede a la carpeta del repositorio:
 cd UTN-Laboratorio2
@@ -47,7 +47,7 @@ cd UTN-Laboratorio2
 
 4. Ejecuta el programa.
 
-## Estructura del Proyecto ##
+### Estructura del Proyecto ###
 El proyecto utiliza un enfoque modular, con clases específicas para cada entidad clave:
 
 **Proveedor:** Gestión de proveedores.
@@ -61,7 +61,7 @@ Cada clase tiene su equivalente en:
 - Funciones: Métodos adicionales para la manipulación de datos.
 - Archivo: Gestión de los datos almacenados en archivos binarios.
 
-**Créditos**  
+## Créditos ##  
 Este proyecto fue desarrollado en colaboración por:  
 
 - [Mcanita](https://github.com/Mcanita)  
